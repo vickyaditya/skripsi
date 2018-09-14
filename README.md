@@ -1,2 +1,2 @@
 # skripsi
-Tempat mengumpulkan atau dokumentasi skripsi saya dari awal, hingga akhir.
+Tempat mengumpulkan sembari mendokumentasikan skripsi saya dari awal, hingga akhir.
